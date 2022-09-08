@@ -13,3 +13,7 @@ Web view
 ## Menambahkan navigation control
 
 ![](images/3.JPG)
+
+## Menambahkan menu
+
+![](images/4.JPG)
