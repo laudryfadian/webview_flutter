@@ -26,3 +26,7 @@ Web view
 ## Menambahkan menu cookies
 
 ![](images/6.JPG)
+
+## Memuat aset, file, dan string HTML Flutter di WebView
+
+![](images/7.JPG)
