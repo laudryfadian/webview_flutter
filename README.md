@@ -23,6 +23,6 @@ Web view
 ![](images/5.1.JPG)
 ![](images/5.2.JPG)
 
-## Menambahkan memu cookies
+## Menambahkan menu cookies
 
 ![](images/6.JPG)
