@@ -9,3 +9,7 @@ Web view
 ## Menambahkan loading
 
 ![](images/2.JPG)
+
+## Menambahkan navigation control
+
+![](images/3.JPG)
